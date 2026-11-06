@@ -39,7 +39,7 @@ jobs:
           # Opcional: secret GH_PAT (token con scope read:user) para incluir
           # contribuciones privadas. Si no existe, usa GITHUB_TOKEN.
           GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
-          GH_USER: vicente-arriagada-lost
+          GH_USER: LostXXI
 
       - name: Commit changes
         run: |
