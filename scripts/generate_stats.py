@@ -8,7 +8,7 @@ import sys
 import urllib.request
 from html import escape
 
-USER = os.environ.get("GH_USER", "vicente-arriagada-lost")
+USER = os.environ.get("GH_USER", "LostXXI")
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
 OUT = os.environ.get("OUT", "stats.svg")
 

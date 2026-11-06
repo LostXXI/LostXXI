@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+vicente-arriagada-lost+%F0%9F%91%8B;Cybersecurity+%2B+Full-Stack+Developer;Breaking+things+to+build+them+secure+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+LostXXI+%F0%9F%91%8B;Cybersecurity+%2B+Full-Stack+Developer;Breaking+things+to+build+them+secure+%F0%9F%94%90" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vicente-arriagada-lost&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<img src="https://img.shields.io/github/followers/vicente-arriagada-lost?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/vicente-arriagada-lost?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=LostXXI&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
+<img src="https://img.shields.io/github/followers/LostXXI?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/LostXXI?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```bash
 $ whoami
-vicente-arriagada-lost   # "Lost" · Santiago, Chile 🇨🇱
+LostXXI   # "Lost" · Santiago, Chile 🇨🇱
 
 $ cat about.txt
 Cybersecurity + Full-Stack developer in the making.
@@ -77,12 +77,12 @@ $ cat now.txt
 
 | Project | Stack | What it is |
 |:--|:--|:--|
-| [**ASCII_Motion**](https://github.com/vicente-arriagada-lost/ASCII_Motion) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | Turns media into animated ASCII art (powers the portrait above). |
-| [**iPop-Manager**](https://github.com/vicente-arriagada-lost/iPop-Manager) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) | C++ project. <!-- TODO: add a one-line description --> |
+| [**ASCII_Motion**](https://github.com/LostXXI/ASCII_Motion) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | Turns media into animated ASCII art (powers the portrait above). |
+| [**iPop-Manager**](https://github.com/LostXXI/iPop-Manager) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) | C++ project. <!-- TODO: add a one-line description --> |
 
 ---
 
-## 📊 `> ./stats --player=vicente-arriagada-lost`
+## 📊 `> ./stats --player=LostXXI`
 
 <div align="center">
 
@@ -98,7 +98,7 @@ $ cat now.txt
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=vicente-arriagada-lost&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://github-trophies.vercel.app/?username=LostXXI&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
 
@@ -132,7 +132,7 @@ $ cat now.txt
 
 <div align="center">
 
-<a href="https://github.com/vicente-arriagada-lost"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
+<a href="https://github.com/LostXXI"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
 <!-- Reemplaza con tus datos reales y descomenta:
 <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
 <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
